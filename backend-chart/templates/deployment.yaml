@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: container1
-          image: pythoncpp/backend
+          image: darksmiley1907/backend
           ports:
             - containerPort: 4000
